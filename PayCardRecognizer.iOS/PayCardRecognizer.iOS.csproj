@@ -47,7 +47,7 @@
     <ObjcBindingCoreSource Include="Structs.cs" />
   </ItemGroup>
   <ItemGroup>
-    <NativeReference Include="..\..\..\Desktop\PayCard\PayCards_iOS-master\Source\PayCardsRecognizer.framework">
+    <NativeReference Include="PayCardsRecognizer.framework">
       <Kind>Framework</Kind>
       <SmartLink>False</SmartLink>
     </NativeReference>
